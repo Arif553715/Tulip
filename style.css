@@ -1,0 +1,559 @@
+body{
+	background:url(images/bodybg.png) repeat;
+}
+/********************* start header area *********************/
+header{
+	background:url(images/image1.jpg) no-repeat left center;
+	padding:20px 0px 361px 0px;
+}
+
+.social_icon{
+	min-height:40px;
+}
+.social_icon img{
+	float:right;
+	padding-left:7px;
+	margin-right:10px;
+}
+.mymenu{
+	
+	background:none;
+	border:none;
+}
+.Mynav_design li{
+	float:right;
+}
+.Mynav_design li a{
+	color:#009999 !important;
+
+}
+.Mynav_design li a:after{
+	content:"/";
+	padding-left:9px !important;
+}
+.header_content h6{
+	padding-top:180px;
+	font-size:50px;
+	font-weight:100 !important;
+	color:#333333 !important;
+	padding-bottom:50px;
+}
+.header_content h1{
+	color:#14a39b !important;
+	font-weight:900;
+	font-size:40px;
+	padding-bottom:20px;
+}
+.header_content p{
+	width:75%;
+	font-size:16px;
+	color:#14a39b !important;
+	padding-bottom:120px;
+}
+.header_button{
+	text-decoration:none;
+	color:#14a39b !important;
+	padding:10px 30px;
+	border:1px solid #14a39b;
+	margin-right:50px;
+}
+.button_two{
+	background:#14a39b !important;
+	padding:10px 30px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+/********************* start about area *********************/
+.about{
+	background:#009899;
+}
+.about h2{
+	padding-top:80px;
+	text-transform:uppercase;
+	color:#fff !important;
+	background:url(images/about_bg.png) no-repeat bottom center;
+	padding-bottom:30px;
+}
+.about h3{
+	color:#fff !important;
+	padding-top:20px !important;
+}
+.about p{
+	color:#fff !important;
+	padding-top:20px !important;
+}
+/********************* start content area *********************/
+.content{
+	margin-top:80px;
+	min-height:400px;
+}
+.support h3{
+	background:url(images/suppot%20bg.png) no-repeat left center;
+	padding-left:60px;
+	color:#343434 !important;
+}
+.support p{
+	color:#7e7e7e !important;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.support ul li{
+	color:#7e7e7e !important;
+	padding-bottom:10px;
+}
+.responsive h3{
+	background:url(images/responsivebg.png) no-repeat left center;
+}
+.bootstrap h3{
+	background:url(images/suppot%20bg.png) no-repeat left center;
+}
+/********************* start parallax area *********************/
+.parallax{
+	background:url(images/parallax.jpg) no-repeat fixed center;
+	background-size:cover;
+	min-height:650px;
+	padding-left:0px;
+	padding-right:0px;
+}
+.palrallaxbg{
+	background:rgba(25,158,155,0.57);
+	min-height:650px;
+}
+
+.clients{
+	width:18%;
+	margin-top:250px;
+	border:1px solid #fff;
+	margin-right:40px;
+	margin-left:40px;
+}
+.clients img{
+	padding-top:40px;
+	color:#fff;
+}
+.clients h1{ 
+	color:#fff;
+	font-size:40px;
+}
+.clients h2{ 
+	color:#fff;
+	padding-bottom:40px;
+}
+.projects{
+	width:18%;
+	margin-top:250px;
+	border:1px solid #fff;
+	margin-right:40px;
+	margin-left:40px;
+}
+.projects img{
+	padding-top:40px;
+	color:#fff;
+}
+.projects h1{ 
+	color:#fff;
+	font-size:40px;
+}
+.projects h2{ 
+	color:#fff;
+	padding-bottom:40px;
+}
+.followers{
+	width:18%;
+	margin-top:250px;
+	border:1px solid #fff;
+	margin-right:40px;
+	margin-left:40px;
+}
+.followers img{
+	padding-top:40px;
+	color:#fff;
+}
+.followers h1{ 
+	color:#fff;
+	font-size:40px;
+}
+.followers h2{ 
+	color:#fff;
+	padding-bottom:40px;
+}
+.awards{
+	width:18%;
+	margin-top:250px;
+	border:1px solid #fff;
+	margin-right:40px;
+	margin-left:40px;
+}
+.awards img{
+	padding-top:40px;
+	color:#fff;
+}
+.awards h1{ 
+	color:#fff;
+	font-size:40px;
+}
+.awards h2{ 
+	color:#fff;
+	padding-bottom:40px;
+}
+/********************* start tulip area *********************/
+
+.tulip_pic{
+	margin-top:90px;
+}
+.tulip_content{
+	margin-top:220px;
+}
+.tulip_content h4{
+	color:#009999;
+
+}
+.tulip_content h2{
+	padding-top:20px;
+}
+.tulip_content p{
+	color:#666666;
+	padding-top:20px;
+	padding-bottom:80px;
+}
+.tulip_content a{
+	padding:10px 30px;
+	border:2px solid #009999;
+	color:#009999;
+	text-decoration:none;
+}
+/********************* start curve area *********************/
+.curve{
+	background:url(images/curve_border.png) repeat-x;
+	height:67px;
+	position:relative;
+	z-index:300;
+}
+/********************* start meet_team area *********************/
+.meet_team{
+	background:#009999;
+	position:relative;
+	z-index:200;
+	margin-top:-60px;
+}
+.meet_team h1{
+	color:#fff;
+	padding-top:100px;
+	font-size:80px;
+}
+.meet_team h3{
+	padding-bottom:100px;
+	font-size:40px;
+}
+/********************* start Dennis area *********************/
+.Dennis{
+	margin-top:100px;
+	margin-bottom:50px;
+}
+.Dennis_left img{
+	background:#fff;
+	border-radius:50%;
+}
+.Dennis_left h3{
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.Dennis_left p{
+	padding-top:20px;
+}
+/********************* start testimonial area *********************/
+.testimonial h1{
+	color:#009999;
+	padding-top:30px;
+	padding-bottom:50px
+}
+/********************* start portfolio area *********************/
+.portfolio_top{
+	margin-bottom:50px;
+	border-bottom:1px solid #cccccc;
+}
+.portfolio_top_left{
+	min-width:15%;
+	border-right:1px solid #cccccc;
+}
+.portfolio_top_left img{
+	padding-top:25px;
+	padding-bottom:25px;
+}
+/********************* start portfolio_two area *********************/
+.portfolio_two{
+	margin-top:120px;
+	margin-bottom:120px;
+}
+
+/********************* start zamanceo area *********************/
+.zamanceo{
+	background:#e3e3e3;
+	min-height:120px;
+}
+.zamanceo h2{
+	color:#1ea3a3;
+}
+.zamanceo h3{
+	color:#009999;
+}
+.zaman_content{
+	background:#efefef;
+	min-height:120px;
+}
+.zaman_content h4{
+	color:#009999;
+	line-height:120px;
+}
+
+/********************* start device area *********************/
+.device{
+	background:url(images/parallaxtwo.jpg) no-repeat fixed center;
+	background-size:cover;
+	min-height:1000px;
+	padding-right: 0px;
+	padding-left: 0px;
+}
+.devicebg{
+	background:rgba(25,158,155,0.65);
+	min-height:1000px;
+}
+.device_mobile img{
+	margin-top:350px;
+}
+.device_content{
+	margin-left:80px;
+	margin-top:350px;
+}
+.device_designed h3{
+	color:#ffffff;
+}
+.device_designed p{
+	color:#ffffff;
+	padding-bottom:30px;
+}
+.design_ready_left{
+	background:#fff;
+	border-radius:50%;
+	height:90px;
+	margin-bottom:30px;
+}
+.design_ready_right{
+	margin-bottom:30px;
+}
+.design_ready_right h4{
+	color:#fff;
+}
+.design_ready_right p{
+	color:#fff;
+}
+.our_services h2{
+	color:#009999;
+	margin-top:100px;
+}
+.web_design{
+	background:#009999;
+	min-height:60px;
+	margin-top:100px;
+}
+.webdesign_left h3{
+	color:#fff;
+}
+/********************* start service area *********************/
+.service_left{
+	min-width:33%;
+	min-height:400px;
+	background:#f1efef;
+}
+.service_left img{
+	margin-top:100px;
+}
+.service_middle{
+	min-width:33%;
+	min-height:380px;
+	background:#fff;
+}
+.middleparallax{
+	margin-top:20px;
+	background:url(images/service_parallax.jpg) no-repeat fixed center;
+	background-size:cover;
+	min-height:380px;
+}
+.middleparallax_bg{
+	background:rgba(128,180,178,0.50);
+	min-height:380px;
+}
+.middleparallax_bg p{
+	width:80%;
+	color:#6e6f6f;
+	padding-top:30px;
+	padding-bottom:30px;
+}
+.service_button{
+	margin-top:17px;
+}
+.service_button a{
+	background:#009999;
+	padding:20px 120px;
+	text-decoration:none;
+	color:#000000;
+	font-size:24px;
+	font-weight:500;
+}
+/********************* start work area *********************/
+.work{
+	margin-top:150px;
+	background:#009999;
+	min-height:900px;
+}
+.work_portfolio a{
+	background:#fff;
+	padding:10px 25px;
+	border:1px solid #000000;
+	text-decoration:none;
+	color:#262626;
+}
+.work_portfolio h4{
+	margin-top:130px;
+	font-size:28px;
+	color:#000000 !important;
+}
+.work_portfolio h1{
+	color:#000000 !important;
+	font-size:45px;
+	padding-bottom:60px;
+}
+.work_logo{
+	margin-top:100px;
+	padding-left:0px !important;
+	padding-right:0px !important;
+	
+}
+.work_logo_left{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+
+.zigs_zenith{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.zigs{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.zigs img{
+	
+	margin-left:45px;
+}
+.zenith{
+	padding-left:0px !important;
+	padding-right:0px ;
+}
+.zenith img{
+	
+	margin-right:45px;
+}
+.orange{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.orange img{
+
+}
+.work_logo_middle{
+	padding-left:0px !important;
+	padding-right:0px !important;
+
+}
+
+.work_logo_right{
+	padding-left:0px !important;
+	padding-right:0px !important;
+	
+}
+.zenith_right_top{
+	padding-left:0px !important;
+	padding-right:0px !important;
+}
+.zenith_right_bottom{
+	padding-left:0px !important;
+	padding-right:0px !important; 
+}
+
+/********************* start news area *********************/
+.news{
+	margin-top:100px;
+	margin-bottom:100px;
+}
+.latest_news h1{
+	background:url(images/nesbg.png) no-repeat right center;
+	padding-right:5px;
+	padding-left:20px;
+	color:#009999;
+	font-weight:500;
+	font-size:30px;
+}
+.news_march{
+	margin-top:100px;
+}
+.news_march p{
+	font-size:18px;
+	padding-bottom:20px;
+}
+.color_16{
+	font-weight:bold;
+	font-size:22px;
+}
+.news_march h3{
+	font-size:18px;
+	font-weight:bold;
+	padding-bottom:30px;
+}
+.normal_para{
+	font-size:14px;
+}
+
+
+.specification{
+	background:#009999;
+	min-height:330px;
+	position:relative;
+	z-index:250px;
+	margin-bottom:-60px;
+}
+.specification h1{
+	color:#FFFFFF;
+	font-weight:900;
+	padding-top:80px;
+	max-width:70%;
+}
+.specification p{
+	color:#000000 !important;
+	padding-top:10px
+}
+.specificationbg{
+	background:url(images/blackbg2.png) repeat-x;
+	margin-bottom:100px;
+	height:69px;
+	position:relative;
+	z-index:300;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
